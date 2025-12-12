@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Autist Network",
+  "description": "A social network designed for the autism community, featuring high-contrast modes, a coin-based reward system, and tools for communication and expression.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
